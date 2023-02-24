@@ -1,0 +1,23 @@
+.cover__description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@media screen and (max-width: 1023px) {
+    .cover__description {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover__description {
+        width: 80%;
+    }
+}

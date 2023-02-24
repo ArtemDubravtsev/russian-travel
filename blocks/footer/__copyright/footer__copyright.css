@@ -1,17 +1,16 @@
-.intro__text {
+.footer__copyright {
     margin: 0;
-    margin-top: 40px;
-    margin-bottom: 33px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 163%;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
     color: #FFFFFF;
 }
 
 @media screen and (max-width: 767px) {
-    .intro__text {
-        margin-bottom: 34px;
+    .footer__copyright {
+        line-height: 14px;
     }
 }

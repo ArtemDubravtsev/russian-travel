@@ -10,6 +10,7 @@
 * 768px
 * 320px
 
+### В вестке используется технологии ”Grid Layout“ и CSS директивы @media.
 ### Создана файловая структура CSS по методологии БЭМ.
 
 ## Ссылка на проект: https://artemdubravtsev.github.io/russian-travel/

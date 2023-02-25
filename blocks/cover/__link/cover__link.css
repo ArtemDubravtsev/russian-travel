@@ -1,9 +1,12 @@
 .cover__link {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     max-width: 1184px;
     min-height: 740px;
     margin-left: auto;
     margin-right: auto;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 1279px) {
